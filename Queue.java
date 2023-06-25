@@ -1,3 +1,4 @@
+//Q2 Implement a queue using a linked list in Java. Include the necessary methods such as enqueue, dequeue, and isEmpty.
 public class Queue {
   int SIZE = 5;
   int items[] = new int[SIZE];
