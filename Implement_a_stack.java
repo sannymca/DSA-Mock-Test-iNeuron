@@ -1,4 +1,4 @@
-// Stack implementation in Java
+//Implement a stack using an array in Java. Include the necessary methods such as push, pop, and isEmpty.
 
 class  Implement_a_stack {
 
