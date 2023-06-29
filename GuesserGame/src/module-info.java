@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author niet
+ *
+ */
+module GuesserGame {
+}

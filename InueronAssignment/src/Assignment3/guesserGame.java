@@ -88,15 +88,6 @@ class Umpire {
 }
 
 
-
-
-
-
-
-
-
-
-
 public class guesserGame {
 	
 	public static void startGame(int n) {
