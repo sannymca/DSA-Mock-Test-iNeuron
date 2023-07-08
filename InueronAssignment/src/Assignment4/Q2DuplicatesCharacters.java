@@ -1,3 +1,5 @@
+
+//2. WAP to print Duplicates characters from the String.
 package Assignment4;
 import java.util.*;
 

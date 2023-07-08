@@ -1,3 +1,5 @@
+
+//1. WAP to remove Duplicates from a String.(Take any String ex with duplicates character
 package Assignment4;
 import java .util.*;
 

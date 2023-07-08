@@ -1,3 +1,5 @@
+
+//Q4. WAP to count the number of consonants, vowels, special characters in a String.
 package Assignment4;
 
 import java.util.Scanner;
